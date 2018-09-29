@@ -11,7 +11,7 @@
 	- 6.3 [Domain Model（领域模型）](documents/6_requirement_specification/domain_model.md)
 	- 6.4 [State Model（状态模型）](documents/6_requirement_specification/state_model.md)
 	- 6.5 [System Sequence Diagram（功能模型）](documents/6_requirement_specification/system_sequence_diagram.md)
-	- 6.6 [Supplementary Requirements（补充需求）](documents/6_requirement_specification/supplementary_requirements.md.md)
+	- 6.6 [Supplementary Requirements（补充需求）](documents/6_requirement_specification/supplementary_requirements.md)
 7. Design(设计)
 	- 7.1 UI design
 		- [To Customer](documents/7_design/ui_design/to_customer.md)
@@ -23,20 +23,18 @@
 	- 7.4 [Software Architecture Document](documents/7_design/software_architecture_document.md)
 	- 7.5 [Usecase Design](documents/7_design/usecase_design.md)
 8. 生产规范与指南
-	- 8.1 代码规范
-		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
-		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
-		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
-	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
-	- 8.3 [逻辑架构到应用程序映射指南(BCE)](documents/BCE.md)
-	- 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用(容器编排)](documents/8.4.md)
+	- 8.1 [代码规范](documents/8_production_specifications_and_guidelines/code_style.md)
+	- 8.2 [REST API设计规范](documents/8_production_specifications_and_guidelines/rest_api_design_stantard.md)
+	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/8_production_specifications_and_guidelines/BCE.md)
+	- 8.4 [部署说明](documents/8_production_specifications_and_guidelines/deployment.md)
 9. [成品展示](documents/display.md)
 
 X1. Meet Records
-  - [inception meeting（2018/9/27）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
+  - [inception meeting(2018/9/27)](documents\x1_meetings_records\inception_meeting(2018-9-27).md)
 
 X2. Tech/Work Report
-  - [TBD](https://firingcalorie.github.io/Dashboard/)
+  - [学号-title](https://firingcalorie.github.io/Dashboard/)
 
 X3. Final Report
-  - [TBD](https://firingcalorie.github.io/Dashboard/)
+  - [学号-title](https://firingcalorie.github.io/Dashboard/)
+  - [小组分工与贡献率说明](documents\x3_final_report\contribution_rate_description.md)
