@@ -30,7 +30,7 @@
 9. [成品展示](documents/9_display.md)
 
 X1. Meet Records
-  - [inception meeting(2018/9/27)](documents/x1_meetings_records/inception_meeting(2018-9-27).md)
+  - [inception meeting](documents/x1_meetings_records/inception_meeting.md)
 
 X2. Tech/Work Report
   - [学号-title](https://firingcalorie.github.io/Dashboard/)
