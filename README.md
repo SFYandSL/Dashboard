@@ -27,14 +27,14 @@
 	- 8.2 [REST API设计规范](documents/8_production_specifications_and_guidelines/rest_api_design_stantard.md)
 	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/8_production_specifications_and_guidelines/BCE.md)
 	- 8.4 [部署说明](documents/8_production_specifications_and_guidelines/deployment.md)
-9. [成品展示](documents/display.md)
+9. [成品展示](documents/9_display.md)
 
 X1. Meet Records
-  - [inception meeting(2018/9/27)](documents\x1_meetings_records\inception_meeting(2018-9-27).md)
+  - [inception meeting(2018/9/27)](documents/x1_meetings_records/inception_meeting(2018-9-27).md)
 
 X2. Tech/Work Report
   - [学号-title](https://firingcalorie.github.io/Dashboard/)
 
 X3. Final Report
   - [学号-title](https://firingcalorie.github.io/Dashboard/)
-  - [小组分工与贡献率说明](documents\x3_final_report\contribution_rate_description.md)
+  - [小组分工与贡献率说明](documents/x3_final_report/contribution_rate_description.md)

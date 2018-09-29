@@ -1,1 +1,1 @@
-# Rest Api Design Stantard
+# Rest API Design Stantard
