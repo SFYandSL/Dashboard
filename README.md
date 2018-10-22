@@ -33,7 +33,7 @@ X1. Meet Records
   - [inception meeting](documents/x1_meetings_records/inception_meeting.md)
 
 X2. Tech/Work Report
-  - [学号-title](https://firingcalorie.github.io/Dashboard/)
+  - [18214860-基于Vue项目的用户浏览器加载资源文件的性能优化](https://blog.csdn.net/SkyeBeFreeman/article/details/83273677)
 
 X3. Final Report
   - [学号-title](https://firingcalorie.github.io/Dashboard/)
